@@ -1,4 +1,4 @@
-<h1> 8 Puzzle <h1>
+# 8 Puzzle 
 
 This project is an 8 puzzle solver using the A* Heursitic Search algorithm. 
 
